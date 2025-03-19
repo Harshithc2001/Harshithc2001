@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Harshith C
+- 👀 I’m interested in coding and developing
+- 🌱 I’m currently learning to code
+- 📫 How to reach me - harshithc890@gmail.com
