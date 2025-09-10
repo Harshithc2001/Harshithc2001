@@ -1,5 +1,5 @@
-- 👋 Hi! I'm a passionate Frontend Developer with a strong focus on React.js, and solid Backend experience using Node.js. I enjoy building clean, responsive, and dynamic web applications — from crafting engaging UIs to developing scalable backend logic.
-Beyond JavaScript, I also have hands-on experience with Python, Java, and databases using SQL and PL/SQL. I'm always exploring new technologies, improving my skillset, and building meaningful projects that solve real-world problems.
+- 👋 Hi! I'm a passionate Frontend Developer with a strong focus on React.js, and solid Backend experience using Node.js. I enjoy building clean, responsive, and dynamic web applications from crafting engaging UIs to developing scalable backend logic.
+- Beyond JavaScript, I also have hands-on experience with Python, Java, and databases using SQL and PL/SQL. I'm always exploring new technologies, improving my skillset, and building meaningful projects that solve real-world problems.
 - 💻 Tech Stack:
 - Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind
 - Backend: Node.js, REST APIs
