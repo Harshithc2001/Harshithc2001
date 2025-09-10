@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @Harshith C
-- 👀 I’m interested in coding and developing
-- 🌱 I’m currently learning to code
+- 👋 Hi! I'm a passionate Frontend Developer with a strong focus on React.js, and solid Backend experience using Node.js. I enjoy building clean, responsive, and dynamic web applications — from crafting engaging UIs to developing scalable backend logic.
+Beyond JavaScript, I also have hands-on experience with Python, Java, and databases using SQL and PL/SQL. I'm always exploring new technologies, improving my skillset, and building meaningful projects that solve real-world problems.
+💻 Tech Stack:
+Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind
+Backend: Node.js, REST APIs
+Languages: Python, Java, SQL, PL/SQL
+Databases: MySQL, Oracle
+🛠️ Tools & Practices: Git, GitHub, VS Code, Responsive Design
+🚀 Currently Learning: TypeScript, Next.js, Testing (Jest, React Testing Library)
+I love to code, collaborate, and continuously learn. Whether it's building full-stack applications or optimizing database queries, I'm always up for a challenge. Let’s connect and build something awesome!
 - 📫 How to reach me - harshithc890@gmail.com
